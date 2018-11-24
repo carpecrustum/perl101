@@ -28,8 +28,6 @@ These are topics to discuss that have yet to be written up or moved to a page.
 
 =head2 Find a module with perldoc -l or perldoc -M
 
-=head2 Perl is compiled
-
 =head2 How do I?
 
 Templating systems
