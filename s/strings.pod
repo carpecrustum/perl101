@@ -97,7 +97,7 @@ You can create long strings with the C<''> operators
 
 =head2 Create long strings with heredocs
 
-Heredocs are 
+Heredocs are
 
 =over
 
