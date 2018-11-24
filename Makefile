@@ -10,7 +10,6 @@ default: crank
 crank:
 	podium clean build
 	cp -R static/* $(BUILD)/
-	cp auth.pl $(BUILD)/
 
 clean:
 	podium clean
