@@ -3,8 +3,8 @@
 =head2 Read about CPAN modules
 
 The definitive book, even though it's a few years old, is Sam
-Tregar's I<Writing Perl Modules For CPAN>.  It's available for free
-download at L<http://apress.com/book/free>.
+Tregar's I<Writing Perl Modules For CPAN>.  It's available 
+at L<http://apress.com/us/book/978159059018>.
 
 =head2 Create new modules with Module::Starter
 
